@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        Map<String, Integer> stations = new HashMap<String, Integer>();
+        Map<String, Integer> stations = new HashMap<>();
 
         stations.put("上野駅", 60);
         stations.put("東京駅", 70);
